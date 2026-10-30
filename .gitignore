@@ -1,4 +1,6 @@
-venv/
 .venv/
 build/
 *.spec
+test_images/
+tmp/
+results/
